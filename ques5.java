@@ -33,7 +33,6 @@ public class ques5 {
                 System.out.println("Invalid operation!");
                 return;
         }
-        
         System.out.println("Result: " + result);
     }
 }
