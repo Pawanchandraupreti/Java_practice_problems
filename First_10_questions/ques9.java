@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to print Fibonacci series up to n terms.
 
 import java.util.Scanner;

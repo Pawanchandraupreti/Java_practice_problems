@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to print "Hello, World!" and explain the main components of the code.
 
 public class ques1 {

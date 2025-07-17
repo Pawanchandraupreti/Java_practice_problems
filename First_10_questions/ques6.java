@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to reverse a given string.
 
 import java.util.Scanner;

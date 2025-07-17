@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program that takes two numbers as input and returns their sum.
 
 import java.util.Scanner;

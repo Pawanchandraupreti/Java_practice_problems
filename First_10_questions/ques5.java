@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to create a simple calculator that can perform addition, subtraction, multiplication, and division.
 
 import java.util.Scanner;

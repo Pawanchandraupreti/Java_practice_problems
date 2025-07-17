@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to check if a given number is even or odd.
 
 import java.util.Scanner;

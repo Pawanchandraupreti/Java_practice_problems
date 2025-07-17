@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to check if a number is prime.
 
 import java.util.Scanner;

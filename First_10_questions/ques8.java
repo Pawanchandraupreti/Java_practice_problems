@@ -1,3 +1,4 @@
+package First_10_questions;
 //Write a Java program to calculate the factorial of a number.
 
 import java.util.Scanner;
