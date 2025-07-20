@@ -1,4 +1,4 @@
-package Ques1_to_20;
+package Ques_11_to_20;
 
 //Print Pascal’s Triangle (First 5 Rows)
 

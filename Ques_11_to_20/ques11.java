@@ -1,9 +1,9 @@
-package Ques1_to_20;
+package Ques_11_to_20;
 
 //Find the Second Largest Number in an Array
 
 
-public class quest11 {
+public class ques11 {
     public static void main(String[] args) {
         int[] arr = {12, 35, 1, 10, 34, 1};
         int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE;

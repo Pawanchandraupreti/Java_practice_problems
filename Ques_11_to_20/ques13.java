@@ -1,4 +1,4 @@
-package Ques1_to_20;
+package Ques_11_to_20;
 
 //Remove Duplicates from Sorted Array
 
