@@ -13,7 +13,6 @@ public class ques50 {
         }
         return -1;
     }
-
     public static void main(String[] args) {
         int[] numbers = {2, 5, 8, 12, 16, 23, 38, 56};
         int target = 16;
