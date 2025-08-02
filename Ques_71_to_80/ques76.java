@@ -35,7 +35,7 @@ public class ques76 {
 
     public static void main(String[] args) {
         try {
-            copyWithProgress("source.txt", "dest.txt");
+            copyWithProgress("C:\\Users\\upret\\OneDrive\\Desktop\\Java problems\\Ques_71_to_80\\source.txt", "C:\\Users\\upret\\OneDrive\\Desktop\\Java problems\\Ques_71_to_80\\dest.txt");
         } catch (IOException e) {
             System.err.println("Error: " + e.getMessage());
         }
