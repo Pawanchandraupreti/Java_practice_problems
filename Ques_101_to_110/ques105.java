@@ -16,7 +16,6 @@ public class ques105 {
             }
             System.out.println();
         }
-        
         // Lower half
         for (int i = rows - 1; i >= 1; i--) {
             for (int j = rows; j > i; j--) {

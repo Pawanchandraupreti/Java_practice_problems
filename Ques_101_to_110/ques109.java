@@ -11,7 +11,6 @@ public class ques109 {
             binary.insert(0, decimal % 2);
             decimal /= 2;
         }
-        
         System.out.println("Binary: " + binary);
     }
 }

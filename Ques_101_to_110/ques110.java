@@ -4,6 +4,7 @@ package Ques_101_to_110;
 
 public class ques110 {
     public static void main(String[] args) {
+        
         int rows = 5;
         int number = 1;
         

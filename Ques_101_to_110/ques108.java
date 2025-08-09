@@ -11,7 +11,6 @@ public class ques108 {
         for (char c : text.toCharArray()) {
             if (c == target) count++;
         }
-        
         System.out.println(target + " appears " + count + " times");
     }
 }

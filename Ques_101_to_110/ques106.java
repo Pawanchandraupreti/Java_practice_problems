@@ -12,6 +12,8 @@ public class ques106 {
         
         java.util.Arrays.sort(arr1);
         java.util.Arrays.sort(arr2);
+
+
         
         boolean isAnagram = java.util.Arrays.equals(arr1, arr2);
         System.out.println("Are anagrams? " + isAnagram);
