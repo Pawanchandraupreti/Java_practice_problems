@@ -9,8 +9,10 @@ public class ques102 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter principal amount: ");
         double principal = sc.nextDouble();
+
         System.out.print("Enter rate of interest: ");
         double rate = sc.nextDouble();
+        
         System.out.print("Enter time (years): ");
         double time = sc.nextDouble();
         
