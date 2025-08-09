@@ -7,7 +7,6 @@ public class ques108 {
         String text = "programming";
         char target = 'm';
         int count = 0;
-        
         for (char c : text.toCharArray()) {
             if (c == target) count++;
         }
