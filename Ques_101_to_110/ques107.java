@@ -12,6 +12,7 @@ public class ques107 {
                 sum += i;
             }
         }
+        
         System.out.println(num + " is " + (sum == num ? "" : "not ") + "perfect");
     }
 }

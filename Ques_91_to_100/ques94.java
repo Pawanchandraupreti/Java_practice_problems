@@ -6,7 +6,6 @@ public class ques94 {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4, 5};
         int[] arr2 = {4, 5, 6, 7, 8};
-        
         System.out.print("Common elements: ");
         for(int num1 : arr1) {
             for(int num2 : arr2) {
