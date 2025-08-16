@@ -9,8 +9,7 @@ public class ques137 {
         
         for (int i = 0; i < 9; i++) {
             sum += (i+1) * Character.getNumericValue(isbn.charAt(i));
-        }
-        
+        }   
         char checksum = (sum % 11 == 10) ? 'X' : (char)(sum % 11 + '0');
         System.out.println("Complete ISBN: " + isbn + checksum);
     }
