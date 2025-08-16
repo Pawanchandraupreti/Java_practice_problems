@@ -13,7 +13,6 @@ public class ques140 {
                 Integer.toBinaryString(digit)).replace(' ', '0');
             System.out.println("║" + binary.replace("0", " ").replace("1", "█") + "║");
         }
-        
         System.out.println("╚" + "═".repeat(number.length()*6) + "╝");
         System.out.println(" " + number.replace("", "   ").trim());
     }
