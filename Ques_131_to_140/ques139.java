@@ -7,7 +7,6 @@ public class ques139 {
         int height = 10;
         int pos = 0;
         int direction = 1;
-        
         while (true) {
             System.out.print("\033[H\033[2J"); // Clear console
             System.out.flush();
