@@ -6,7 +6,6 @@ public class ques136 {
     public static void main(String[] args) {
         String word = "SPIRAL";
         int n = word.length();
-        
         for (int i = 0; i < n; i++) {
             System.out.println(" ".repeat(i) + word.charAt(i) + 
                              " ".repeat(n*2 - i*2 - 2) + 
