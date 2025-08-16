@@ -16,7 +16,6 @@ public class ques138 {
                 grid[i][j] = (char)(rand.nextInt(26) + 'A');
             }
         }
-        
         // Insert hidden word diagonally
         String word = "JAVA";
         for (int i = 0; i < word.length(); i++) {
