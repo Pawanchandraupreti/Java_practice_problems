@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class ques167 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
         System.out.print("Enter distance in miles: ");
         double miles = scanner.nextDouble();
         
