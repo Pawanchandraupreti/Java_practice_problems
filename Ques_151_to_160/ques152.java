@@ -4,8 +4,7 @@ package Ques_151_to_160;
 
 public class ques152 {
     public static void main(String[] args) throws InterruptedException {
-        int total = 20;
-        
+        int total = 20;  
         for (int i = 0; i <= total; i++) {
             int percent = i * 100 / total;
             String bar = "[" + "=".repeat(i) + " ".repeat(total - i) + "]";
