@@ -5,7 +5,6 @@ package Ques_151_to_160;
 public class ques154 {
     public static void main(String[] args) {
         int size = 5;
-        
         System.out.print("    ");
         for (int i = 1; i <= size; i++) {
             System.out.printf("%4d", i);
