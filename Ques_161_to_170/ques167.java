@@ -9,7 +9,6 @@ public class ques167 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter distance in miles: ");
         double miles = scanner.nextDouble();
-        
         double kilometers = miles * 1.60934;
         System.out.printf("%.2f miles = %.2f kilometers%n", miles, kilometers);
     }
