@@ -13,6 +13,7 @@ public class ques165 {
             "Be yourself; everyone else is already taken. - Oscar Wilde",
             "You only live once, but if you do it right, once is enough. - Mae West"
         };
+        
         Random rand = new Random();
         System.out.println("Today's quote:");
         System.out.println(quotes[rand.nextInt(quotes.length)]);
