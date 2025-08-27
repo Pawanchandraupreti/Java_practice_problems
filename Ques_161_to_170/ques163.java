@@ -5,7 +5,6 @@ package Ques_161_to_170;
 public class ques163 {
     public static void main(String[] args) {
         int rows = 5;
-        
         for (int i = 1; i <= rows; i++) {
             System.out.print(" ".repeat(rows - i));
             
