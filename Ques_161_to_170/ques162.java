@@ -9,7 +9,6 @@ public class ques162 {
         String text = "hello world hello java world programming";
         String[] words = text.split(" ");
         HashMap<String, Integer> frequency = new HashMap<>();
-        
         for (String word : words) {
             frequency.put(word, frequency.getOrDefault(word, 0) + 1);
         }
