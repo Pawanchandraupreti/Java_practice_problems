@@ -9,6 +9,7 @@ public class ques164 {
         for (int i = 0; i < 20; i++) {
             System.out.print("\rLoading " + frames[i % frames.length]);
             Thread.sleep(200);
+            
         }
         System.out.println("\rDone!          ");
     }
