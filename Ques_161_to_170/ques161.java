@@ -9,7 +9,6 @@ public class ques161 {
             System.out.print(" ".repeat(height - i - 1));
             System.out.println("*".repeat(2 * i + 1));
         }
-        
         // Trunk
         System.out.print(" ".repeat(height - 2));
         System.out.println("|||");
