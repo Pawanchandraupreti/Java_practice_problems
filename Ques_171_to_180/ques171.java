@@ -9,7 +9,6 @@ public class ques171 {
         for (int i = 0; i < word.length(); i++) {
             System.out.println(word.substring(0, i + 1));
         }
-        
         for (int i = word.length() - 2; i >= 0; i--) {
             System.out.println(word.substring(0, i + 1));
         }
