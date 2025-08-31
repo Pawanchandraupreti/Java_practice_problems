@@ -13,6 +13,7 @@ public class ques179 {
         
         String result1 = symbols[rand.nextInt(symbols.length)];
         String result2 = symbols[rand.nextInt(symbols.length)];
+        
         String result3 = symbols[rand.nextInt(symbols.length)];
         
         System.out.println(result1 + " " + result2 + " " + result3);
