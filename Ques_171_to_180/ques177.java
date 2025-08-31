@@ -9,6 +9,7 @@ public class ques177 {
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
                 if ((i + j) % 2 == 0) {
+                    
                     System.out.print("A ");
                 } else {
                     System.out.print("B ");
