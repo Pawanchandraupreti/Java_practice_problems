@@ -10,6 +10,7 @@ public class ques164 {
             System.out.print("\rLoading " + frames[i % frames.length]);
             Thread.sleep(200);
             
+            
         }
         System.out.println("\rDone!          ");
     }
