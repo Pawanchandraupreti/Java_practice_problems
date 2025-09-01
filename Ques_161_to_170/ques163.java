@@ -12,6 +12,7 @@ public class ques163 {
                 System.out.print(j);
             }
             
+            
             for (int j = i - 1; j >= 1; j--) {
                 System.out.print(j);
             }
