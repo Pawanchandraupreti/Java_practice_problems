@@ -13,6 +13,7 @@ public class ques162 {
             frequency.put(word, frequency.getOrDefault(word, 0) + 1);
         }
         
+        
         System.out.println("Word frequencies:");
         for (String word : frequency.keySet()) {
             System.out.println(word + ": " + frequency.get(word));
