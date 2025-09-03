@@ -8,6 +8,7 @@ public class ques168 {
         int sum = calculateSum(n);
         System.out.println("Sum of first " + n + " natural numbers: " + sum);
     }
+    
     static int calculateSum(int n) {
         if (n == 0) {
             return 0;
