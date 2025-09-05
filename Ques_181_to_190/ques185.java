@@ -11,7 +11,6 @@ public class ques185 {
             Thread.sleep(1000);
         }
         
-        
         System.out.println("\rTime's up! \u0007"); // \u0007 is the bell character
     }
 }
