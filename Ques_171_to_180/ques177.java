@@ -11,6 +11,7 @@ public class ques177 {
                 if ((i + j) % 2 == 0) {
                     
                     System.out.print("A ");
+                    
                 } else {
                     System.out.print("B ");
                 }
