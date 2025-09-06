@@ -16,7 +16,6 @@ public class ques180 {
         for (int i = 1; i <= size; i++) {
             System.out.print("----");
         }
-        
         System.out.println();
         
         for (int i = 1; i <= size; i++) {
