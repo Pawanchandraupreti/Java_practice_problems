@@ -20,6 +20,7 @@ public class ques179 {
         
         if (result1.equals(result2) && result2.equals(result3)) {
             System.out.println("JACKPOT! 🎉");
+            
         } else if (result1.equals(result2) || result2.equals(result3) || result1.equals(result3)) {
             System.out.println("Two matches! Almost there!");
         } else {
