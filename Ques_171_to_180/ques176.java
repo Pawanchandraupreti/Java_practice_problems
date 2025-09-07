@@ -13,7 +13,6 @@ public class ques176 {
                 secondLargest = largest;
                 largest = num;
                 
-                
             } else if (num > secondLargest && num != largest) {
                 secondLargest = num;
             }
