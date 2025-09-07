@@ -4,6 +4,7 @@ package Ques_171_to_180;
 
 public class ques172 {
     public static void main(String[] args) {
+        
         int number = 29;
         boolean isPrime = true;
         
