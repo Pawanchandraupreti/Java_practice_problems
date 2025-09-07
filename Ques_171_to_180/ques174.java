@@ -13,7 +13,6 @@ public class ques174 {
         System.out.print("Guess a number between 0 and 36: ");
         int guess = scanner.nextInt();
         
-        
         int result = rand.nextInt(37);
         System.out.println("The wheel spins... " + result + "!");
         
