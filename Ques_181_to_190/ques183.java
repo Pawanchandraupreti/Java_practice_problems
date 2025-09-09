@@ -9,6 +9,7 @@ public class ques183 {
         System.out.println("LCM of " + a + " and " + b + " is: " + lcm);
     }
     
+    
     static int gcd(int a, int b) {
         while (b != 0) {
             int temp = b;
