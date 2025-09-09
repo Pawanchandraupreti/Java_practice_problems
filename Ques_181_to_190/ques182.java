@@ -10,6 +10,7 @@ public class ques182 {
         int maxHeight = 10;
         int maxValue = java.util.Arrays.stream(values).max().getAsInt();
         
+        
         for (int i = maxHeight; i >= 0; i--) {
             for (int value : values) {
                 int barHeight = value * maxHeight / maxValue;
