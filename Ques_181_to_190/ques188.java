@@ -4,6 +4,7 @@ package Ques_181_to_190;
 
 public class ques188 {
     public static void main(String[] args) {
+        
         int number = 234;
         int product = 1;
         
