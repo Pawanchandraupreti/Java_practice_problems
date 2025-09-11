@@ -15,6 +15,7 @@ public class ques190 {
         System.out.print("Enter amount in USD: ");
         double usd = scanner.nextDouble();
         
+        
         System.out.printf("EUR: %.2f%n", usd * USD_TO_EUR);
         System.out.printf("GBP: %.2f%n", usd * USD_TO_GBP);
         System.out.printf("JPY: %.2f%n", usd * USD_TO_JPY);
