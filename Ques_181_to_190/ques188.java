@@ -11,6 +11,7 @@ public class ques188 {
         while (number > 0) {
             product *= number % 10;
             number /= 10;
+            
         }
         
         System.out.println("Digital product: " + product);
