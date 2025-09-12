@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ques190 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
         final double USD_TO_EUR = 0.85;
         final double USD_TO_GBP = 0.75;
         final double USD_TO_JPY = 110.5;
