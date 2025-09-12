@@ -19,7 +19,6 @@ public class ques187 {
             int guess = scanner.nextInt();
             attempts++;
             
-            
             if (guess == number) {
                 System.out.println("Correct! Guessed in " + attempts + " attempts");
                 break;
