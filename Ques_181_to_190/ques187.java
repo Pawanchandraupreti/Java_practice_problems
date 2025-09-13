@@ -23,7 +23,6 @@ public class ques187 {
                 System.out.println("Correct! Guessed in " + attempts + " attempts");
                 break;
             }
-            
             int difference = Math.abs(guess - number);
             if (difference <= 5) {
                 System.out.println("Very hot!");
