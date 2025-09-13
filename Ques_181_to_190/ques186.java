@@ -7,6 +7,7 @@ public class ques186 {
         String word = "PYRAMID";
         int length = word.length();
         
+        
         for (int i = 0; i < length; i++) {
             String line = word.substring(0, i + 1);
             System.out.println(" ".repeat(length - i - 1) + line);
