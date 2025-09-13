@@ -12,6 +12,7 @@ public class ques189 {
                 System.out.print(currentChar + " ");
                 currentChar++;
             }
+            
             System.out.println();
         }
     }
