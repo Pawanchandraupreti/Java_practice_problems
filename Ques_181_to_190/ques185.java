@@ -4,7 +4,6 @@ package Ques_181_to_190;
 
 public class ques185 {
     public static void main(String[] args) throws InterruptedException {
-        
         int seconds = 5;
         
         for (int i = seconds; i > 0; i--) {
