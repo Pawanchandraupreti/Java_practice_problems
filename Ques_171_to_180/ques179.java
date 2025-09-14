@@ -16,6 +16,7 @@ public class ques179 {
         
         String result3 = symbols[rand.nextInt(symbols.length)];
         
+        
         System.out.println(result1 + " " + result2 + " " + result3);
         
         if (result1.equals(result2) && result2.equals(result3)) {
