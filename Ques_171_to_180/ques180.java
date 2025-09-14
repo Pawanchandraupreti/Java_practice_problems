@@ -12,6 +12,7 @@ public class ques180 {
         }
         System.out.println();
         
+        
         System.out.print("    ");
         for (int i = 1; i <= size; i++) {
             System.out.print("----");
