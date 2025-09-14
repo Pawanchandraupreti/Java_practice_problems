@@ -9,6 +9,7 @@ public class ques178 {
         System.out.println("Sum of digits: " + sum);
     }
     
+    
     static int calculateDigitSum(int n) {
         if (n == 0) {
             return 0;
