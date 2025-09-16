@@ -12,6 +12,7 @@ public class ques191 {
         int[] numbers = {1, 2, 3, 2, 4, 5, 3, 6};
         Set<Integer> unique = new LinkedHashSet<>();
         
+        
         for (int num : numbers) {
             unique.add(num);
         }
