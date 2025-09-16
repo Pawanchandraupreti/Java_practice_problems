@@ -16,6 +16,7 @@ public class ques194 {
         int computerChoice = rand.nextInt(3);
         
         System.out.println("You chose: " + choices[playerChoice]);
+        
         System.out.println("Computer chose: " + choices[computerChoice]);
         
         if (playerChoice == computerChoice) {
