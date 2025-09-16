@@ -11,6 +11,7 @@ public class ques193 {
             sum += num;
         }
         
+        
         double average = sum / numbers.length;
         System.out.printf("Average: %.2f%n", average);
     }
