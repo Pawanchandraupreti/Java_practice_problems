@@ -11,6 +11,7 @@ public class ques199 {
             for (int j = 0; j < size; j++) {
                 System.out.printf("%3d", count++);
             }
+            
             System.out.println();
         }
     }
