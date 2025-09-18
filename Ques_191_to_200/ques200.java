@@ -10,9 +10,9 @@ public class ques200 {
         Random rand = new Random();
         Scanner scanner = new Scanner(System.in);
         
+        while(!false){
         System.out.print("Enter your bet (1-6): ");
         int bet = scanner.nextInt();
-        
         int roll = rand.nextInt(6) + 1;
         System.out.println("Dice rolled: " + roll);
         
@@ -21,5 +21,6 @@ public class ques200 {
         } else {
             System.out.println("Sorry, better luck next time!");
         }
+    }
     }
 }
