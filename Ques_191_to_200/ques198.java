@@ -9,6 +9,7 @@ public class ques198 {
         
         for (int num : numbers) {
             if (num % 2 == 0) {
+                
                 sum += num;
             }
         }
