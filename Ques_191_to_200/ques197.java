@@ -14,6 +14,7 @@ public class ques197 {
             a = b;
             b = next;
             
+            
         }
     }
 }
