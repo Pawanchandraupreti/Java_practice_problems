@@ -10,5 +10,6 @@ public class ques196 {
             System.out.println(word.substring(0, i));
         }
         
+        
     }
 }
