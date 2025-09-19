@@ -12,6 +12,7 @@ public class ques199 {
                 System.out.printf("%3d", count++);
             }
             
+            
             System.out.println();
         }
     }
