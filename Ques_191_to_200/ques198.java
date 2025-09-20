@@ -14,7 +14,6 @@ public class ques198 {
             }
         }
         
-        
         System.out.println("Sum of even numbers: " + sum);
     }
 }
