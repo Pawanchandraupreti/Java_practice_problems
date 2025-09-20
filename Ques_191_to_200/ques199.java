@@ -7,6 +7,7 @@ public class ques199 {
         int size = 4;
         int count = 1;
         
+        
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
                 System.out.printf("%3d", count++);
