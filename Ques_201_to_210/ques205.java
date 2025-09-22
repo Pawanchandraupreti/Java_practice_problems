@@ -12,6 +12,7 @@ public class ques205 {
         System.out.println("Lottery Draw!");
         System.out.println("The winning number is: " + winningNumber);
         
+        
         // Simulate some tickets
         for (int i = 1; i <= 5; i++) {
             int ticket = rand.nextInt(100) + 1;
