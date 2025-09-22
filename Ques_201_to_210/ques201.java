@@ -25,6 +25,7 @@ public class ques201 {
                 System.out.print(new StringBuilder(word.substring(0, i)).reverse());
             }
             System.out.println();
+            
         }
     }
 }
