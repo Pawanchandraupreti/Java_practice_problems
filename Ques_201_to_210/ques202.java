@@ -18,6 +18,7 @@ public class ques202 {
         if (from == 'C' || from == 'c') {
             double fahrenheit = (temp * 9/5) + 32;
             System.out.printf("%.1f°C = %.1f°F%n", temp, fahrenheit);
+            
         } else {
             double celsius = (temp - 32) * 5/9;
             System.out.printf("%.1f°F = %.1f°C%n", temp, celsius);
