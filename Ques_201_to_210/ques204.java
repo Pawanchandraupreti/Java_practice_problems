@@ -7,6 +7,7 @@ public class ques204 {
         int number = 2345;
         int product = 1;
         
+        
         while (number > 0) {
             product *= number % 10;
             number /= 10;
