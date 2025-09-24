@@ -14,6 +14,7 @@ public class ques210 {
                     System.out.print("O ");
                 }
             }
+            
             System.out.println();
         }
     }
