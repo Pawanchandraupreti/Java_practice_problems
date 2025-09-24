@@ -17,6 +17,7 @@ public class ques206 {
         
         int mostFrequent = Collections.max(frequency.entrySet(), 
             Map.Entry.comparingByValue()).getKey();
+            
         
         System.out.println("Most frequent number: " + mostFrequent);
     }
