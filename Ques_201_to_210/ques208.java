@@ -16,6 +16,7 @@ public class ques208 {
         for (double num : numbers) {
             variance += Math.pow(num - mean, 2);
         }
+        
         variance /= numbers.length;
         
         double stdDev = Math.sqrt(variance);
