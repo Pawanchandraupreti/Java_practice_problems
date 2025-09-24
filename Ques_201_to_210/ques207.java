@@ -10,6 +10,7 @@ public class ques207 {
             for (int j = i; j >= 1; j--) {
                 System.out.print(j + " ");
             }
+            
             System.out.println();
         }
     }
