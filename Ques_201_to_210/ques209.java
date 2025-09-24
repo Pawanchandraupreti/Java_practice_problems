@@ -26,4 +26,5 @@ public class ques209 {
             System.out.println("You lose!");
         }
     }
+    
 }
