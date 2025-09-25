@@ -14,7 +14,6 @@ public class ques215 {
             "Ask again later", "Outlook good", "Outlook not so good",
             "Cannot predict now", "Signs point to yes"
         };
-        
         System.out.print("Ask the Magic 8-Ball a question: ");
         scanner.nextLine(); // Read the question
         
