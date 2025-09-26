@@ -15,6 +15,7 @@ public class ques211 {
                     System.out.print("  ");
                 }
             }
+            
             System.out.println();
         }
     }
