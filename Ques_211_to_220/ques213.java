@@ -13,6 +13,7 @@ public class ques213 {
                 System.out.print(j + " ");
             }
             System.out.println();
+            
         }
     }
 }
