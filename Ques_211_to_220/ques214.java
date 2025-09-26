@@ -11,7 +11,6 @@ public class ques214 {
             sum += 1.0 / i;
             System.out.printf("1/%d = %.4f%n", i, 1.0/i);
         }
-        
         System.out.printf("Sum of first %d terms: %.4f%n", n, sum);
     }
 }
