@@ -12,6 +12,7 @@ public class ques211 {
                 if (j % height == i) {
                     System.out.print(word.charAt(j) + " ");
                 } else {
+                    
                     System.out.print("  ");
                 }
             }
