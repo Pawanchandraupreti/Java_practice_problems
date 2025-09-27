@@ -17,6 +17,7 @@ public class ques212 {
         System.out.print("Enter your birth day: ");
         int day = scanner.nextInt();
         
+        
         LocalDate birthDate = LocalDate.of(year, month, day);
         LocalDate today = LocalDate.now();
 
