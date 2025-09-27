@@ -15,7 +15,6 @@ public class ques215 {
             "Cannot predict now", "Signs point to yes"
         };
         
-        
         System.out.print("Ask the Magic 8-Ball a question: ");
         scanner.nextLine();
         
