@@ -21,7 +21,6 @@ public class ques212 {
         LocalDate birthDate = LocalDate.of(year, month, day);
         LocalDate today = LocalDate.now();
 
-        
         Period age = Period.between(birthDate, today);
         
         System.out.printf("You are %d years, %d months, and %d days old%n",
