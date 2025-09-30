@@ -19,6 +19,7 @@ public class ques216 {
             }
         }
         
+        
         System.out.println("Intersection: " + intersection);
     }
 }
