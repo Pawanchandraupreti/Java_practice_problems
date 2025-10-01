@@ -18,7 +18,6 @@ public class ques215 {
         System.out.print("Ask the Magic 8-Ball a question: ");
         scanner.nextLine();
         
-        
         String answer = answers[rand.nextInt(answers.length)];
         System.out.println("Magic 8-Ball says: " + answer);
     }
