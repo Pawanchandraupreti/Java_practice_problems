@@ -16,7 +16,6 @@ public class ques218 {
             median = numbers[numbers.length/2];
         }
         
-        
         System.out.println("Sorted array: " + Arrays.toString(numbers));
         System.out.println("Median: " + median);
     }
