@@ -11,7 +11,6 @@ public class ques220 {
                 System.out.print(j % 2 + " ");
             }
             
-            
             System.out.println();
         }
     }
