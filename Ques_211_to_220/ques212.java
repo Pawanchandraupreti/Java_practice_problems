@@ -23,6 +23,7 @@ public class ques212 {
         Period age = Period.between(birthDate, today);
         
         System.out.printf("You are %d years, %d months, and %d days old%n",
+        
                          age.getYears(), age.getMonths(), age.getDays());
     }
 }
