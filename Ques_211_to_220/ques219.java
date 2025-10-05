@@ -26,7 +26,6 @@ public class ques219 {
                 }
             }
             
-            
             if (!found) {
                 attempts--;
                 System.out.println("Wrong! Attempts left: " + attempts);
