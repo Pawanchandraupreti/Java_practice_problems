@@ -13,6 +13,7 @@ public class ques224 {
             number /= 10;
         }
         
+        
         System.out.println("Sum of squares of digits: " + sum);
     }
 }
