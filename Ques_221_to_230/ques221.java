@@ -14,6 +14,7 @@ public class ques221 {
             if (i != n - 1) {
                 System.out.print(word.charAt(n - i - 1));
             }
+            
             System.out.println();
         }
     }
