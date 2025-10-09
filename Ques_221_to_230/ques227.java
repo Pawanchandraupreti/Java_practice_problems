@@ -12,6 +12,7 @@ public class ques227 {
                 System.out.print(j);
             }
             System.out.println();
+            
         }
     }
 }
