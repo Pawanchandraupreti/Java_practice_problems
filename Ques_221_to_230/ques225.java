@@ -17,7 +17,6 @@ public class ques225 {
             "Someone is thinking of you."
         };
         
-        
         String fortune = fortunes[rand.nextInt(fortunes.length)];
         System.out.println("Your fortune: " + fortune);
         System.out.println("Lucky numbers: " + 
