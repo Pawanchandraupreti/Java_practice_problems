@@ -21,6 +21,7 @@ public class ques230 {
         }
     }
     
+    
     static boolean isPrime(int n) {
         if (n <= 1) return false;
         for (int i = 2; i <= Math.sqrt(n); i++) {
