@@ -15,6 +15,7 @@ public class ques221 {
                 System.out.print(word.charAt(n - i - 1));
             }
             
+            
             System.out.println();
         }
     }
