@@ -14,6 +14,7 @@ public class ques224 {
         }
         
         
+        
         System.out.println("Sum of squares of digits: " + sum);
     }
 }
