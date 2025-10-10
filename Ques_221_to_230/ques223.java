@@ -7,6 +7,7 @@ public class ques223 {
         int size = 5;
         int count = 1;
         
+        
         for (int i = 1; i <= size; i++) {
             for (int j = 1; j <= size; j++) {
                 if (i == 1 || i == size || j == 1 || j == size) {
