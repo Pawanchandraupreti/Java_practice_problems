@@ -12,7 +12,6 @@ public class ques226 {
         Arrays.sort(numbers);
         int kthLargest = numbers[numbers.length - k];
         
-        
         System.out.println("Sorted array: " + Arrays.toString(numbers));
         System.out.println(k + "rd largest element: " + kthLargest);
     }
