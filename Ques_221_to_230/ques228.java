@@ -18,6 +18,7 @@ public class ques228 {
         int maxFrequency = Collections.max(frequency.values());
         System.out.print("Mode(s): ");
         
+        
         for (Map.Entry<Integer, Integer> entry : frequency.entrySet()) {
             if (entry.getValue() == maxFrequency) {
                 System.out.print(entry.getKey() + " ");
