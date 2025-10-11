@@ -6,6 +6,7 @@ public class ques229 {
     public static void main(String[] args) {
         int decimalNumber = 42;
         
+        
         System.out.println("Decimal: " + decimalNumber);
         System.out.println("Binary: " + Integer.toBinaryString(decimalNumber));
         System.out.println("Octal: " + Integer.toOctalString(decimalNumber));
