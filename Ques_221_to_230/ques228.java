@@ -15,6 +15,7 @@ public class ques228 {
             frequency.put(num, frequency.getOrDefault(num, 0) + 1);
         }
         
+        
         int maxFrequency = Collections.max(frequency.values());
         System.out.print("Mode(s): ");
         
