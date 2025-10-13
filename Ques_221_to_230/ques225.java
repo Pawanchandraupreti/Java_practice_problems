@@ -18,6 +18,7 @@ public class ques225 {
         };
         
         
+        
         String fortune = fortunes[rand.nextInt(fortunes.length)];
         System.out.println("Your fortune: " + fortune);
         System.out.println("Lucky numbers: " + 
