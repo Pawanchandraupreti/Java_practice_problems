@@ -19,6 +19,7 @@ public class ques230 {
             }
             System.out.println();
         }
+        
     }
 
     static boolean isPrime(int n) {
