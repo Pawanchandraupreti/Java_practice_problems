@@ -17,6 +17,7 @@ public class ques231 {
                 }
             }
             
+            
             System.out.println();
         }
     }
