@@ -17,6 +17,7 @@ public class ques235 {
             frequency[roll - 1]++;
         }
         
+        
         // Display statistics
         System.out.println("Dice Roll Statistics (100 rolls):");
         for (int i = 0; i < 6; i++) {
