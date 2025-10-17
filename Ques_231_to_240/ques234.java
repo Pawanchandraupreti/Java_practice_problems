@@ -13,6 +13,7 @@ public class ques234 {
             number /= 10;
         }
         
+        
         System.out.println("Sum of cubes of digits: " + sum);
     }
 }
