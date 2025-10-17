@@ -11,7 +11,6 @@ public class ques232 {
         System.out.print("Enter your score (0-100): ");
         int score = scanner.nextInt();
         
-        
         String grade;
         if (score >= 90) grade = "A";
         else if (score >= 80) grade = "B";
