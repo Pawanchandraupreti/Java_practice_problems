@@ -18,7 +18,6 @@ public class ques232 {
         else if (score >= 60) grade = "D";
         else grade = "F";
         
-        
         System.out.println("Your grade: " + grade);
     }
 }
