@@ -21,3 +21,4 @@ public class ques232 {
         System.out.println("Your grade: " + grade);
     }
 }
+
