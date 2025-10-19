@@ -16,7 +16,6 @@ public class ques200 {
         int roll = rand.nextInt(6) + 1;
         System.out.println("Dice rolled: " + roll);
         
-        
         if (bet == roll) {
             System.out.println("Congratulations! You win 6x your bet!");
         } else {
