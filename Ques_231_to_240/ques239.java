@@ -4,7 +4,7 @@ import java.util.Random;
 
 // Create a Simple Text-Based Word Scrambler
 
-public class ques229 {
+public class ques239 {
     public static void main(String[] args) {
         String word = "PROGRAMMING";
         char[] chars = word.toCharArray();
