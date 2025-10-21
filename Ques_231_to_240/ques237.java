@@ -27,6 +27,7 @@ public class ques237 {
             }
         }
         
+        
         // Print spiral
         for (int[] row : spiral) {
             for (int num : row) {
