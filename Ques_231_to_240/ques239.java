@@ -18,6 +18,7 @@ public class ques239 {
             chars[j] = temp;
         }
         
+        
         System.out.println("Original: " + word);
         System.out.println("Scrambled: " + new String(chars));
     }
