@@ -21,6 +21,7 @@ public class ques236 {
             }
         }
         
+        
         System.out.println("Longest consecutive sequence: " + longest);
     }
 }
