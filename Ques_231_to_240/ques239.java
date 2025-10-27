@@ -10,7 +10,6 @@ public class ques239 {
         char[] chars = word.toCharArray();
         Random rand = new Random();
         
-        
         // Fisher-Yates shuffle
         for (int i = chars.length - 1; i > 0; i--) {
             int j = rand.nextInt(i + 1);
