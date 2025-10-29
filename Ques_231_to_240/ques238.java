@@ -11,7 +11,6 @@ public class ques238 {
             product *= num;
         }
         
-        
         double geometricMean = Math.pow(product, 1.0 / numbers.length);
         System.out.printf("Geometric mean: %.2f%n", geometricMean);
     }
