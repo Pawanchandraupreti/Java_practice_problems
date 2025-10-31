@@ -24,4 +24,5 @@ public class ques242 {
         
         System.out.printf("Monthly payment: $%.2f%n", monthlyPayment);
     }
+    
 }
