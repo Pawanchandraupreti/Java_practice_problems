@@ -17,4 +17,3 @@ public class ques244 {
         System.out.println(number + " is " + (sum == number ? "perfect" : "not perfect"));
     }
 }
-
