@@ -12,8 +12,7 @@ public class ques244 {
                 sum += i;
             }
         }
-        
-        
+          
         System.out.println("Sum of proper divisors of " + number + ": " + sum);
         System.out.println(number + " is " + (sum == number ? "perfect" : "not perfect"));
     }
