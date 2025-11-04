@@ -29,7 +29,6 @@ public class ques245 {
             }
         }
         
-        
         if (attempts == 0) {
             System.out.println("Game over! The color was: " + secretColor);
         }
