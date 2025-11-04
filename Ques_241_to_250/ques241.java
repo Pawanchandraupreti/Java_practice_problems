@@ -15,5 +15,3 @@ public class ques241 {
     }
     
 }
-
-
