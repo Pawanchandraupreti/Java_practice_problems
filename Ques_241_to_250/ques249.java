@@ -21,6 +21,3 @@ public class ques249 {
         System.out.println(word + " is " + (isPalindrome ? "" : "not ") + "a palindrome");
     }
 }
-
-
-
