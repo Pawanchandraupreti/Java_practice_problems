@@ -17,5 +17,3 @@ public class ques246 {
         System.out.println("Missing number: " + missing);
     }
 }
-
-
