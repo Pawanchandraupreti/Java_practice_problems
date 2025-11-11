@@ -15,5 +15,3 @@ public class ques248 {
         System.out.printf("Root Mean Square: %.2f%n", rms);
     }
 }
-
-
