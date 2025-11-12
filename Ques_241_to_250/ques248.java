@@ -7,6 +7,7 @@ public class ques248 {
         double[] numbers = {1, 2, 3, 4, 5};
         double sumOfSquares = 0;
         
+
         for (double num : numbers) {
             sumOfSquares += num * num;
         }
