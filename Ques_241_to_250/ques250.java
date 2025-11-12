@@ -28,4 +28,3 @@ public class ques250 {
         return true;
     }
 }
-
