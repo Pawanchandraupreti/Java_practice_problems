@@ -21,5 +21,3 @@ public class ques252 {
         System.out.printf("Final price: $%.2f%n", finalPrice);
     }
 }
-
-
