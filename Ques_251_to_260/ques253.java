@@ -31,5 +31,3 @@ public class ques253 {
         }
     }
 }
-
-
