@@ -22,3 +22,4 @@ public class ques252 {
     }
 }
 
+
