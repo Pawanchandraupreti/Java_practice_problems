@@ -25,3 +25,5 @@ public class ques254 {
         return result;
     }
 }
+
+
