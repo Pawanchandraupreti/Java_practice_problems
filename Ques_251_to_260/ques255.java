@@ -38,3 +38,4 @@ public class ques255 {
         System.out.println("Morse code: " + morse.toString().trim());
     }
 }
+
