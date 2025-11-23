@@ -5,7 +5,7 @@ import java.util.Set;
 
 // Find the Duplicate Elements in an Array
 
-public class ques266 {
+public class ques256 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 2, 4, 5, 3, 6, 7, 7};
         Set<Integer> seen = new HashSet<>();
