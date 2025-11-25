@@ -15,5 +15,3 @@ public class ques258 {
         System.out.printf("Harmonic mean: %.2f%n", harmonicMean);
     }
 }
-
-
