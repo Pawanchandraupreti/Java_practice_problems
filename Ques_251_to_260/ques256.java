@@ -20,4 +20,3 @@ public class ques256 {
         System.out.println("Duplicate elements: " + duplicates);
     }
 }
-
