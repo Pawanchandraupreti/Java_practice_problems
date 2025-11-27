@@ -22,4 +22,3 @@ public class ques259 {
         System.out.println("Number of vowels: " + vowelCount);
     }
 }
-
