@@ -2,7 +2,7 @@ package Ques_261_to_270;
 
 import java.util.Random;
 
-// 
+// Create a Simple Text-Based Random Password Strength Tester
 
 public class ques265 {
     public static void main(String[] args) {
