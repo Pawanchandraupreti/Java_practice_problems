@@ -21,5 +21,3 @@ public class ques262 {
         System.out.printf("Net income: $%.2f%n", netIncome);
     }
 }
-
-
