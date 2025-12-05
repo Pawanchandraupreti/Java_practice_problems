@@ -27,3 +27,5 @@ public class ques265 {
         System.out.println("Password strength: " + levels[strength]);
     }
 }
+
+
