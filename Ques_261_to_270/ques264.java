@@ -20,3 +20,4 @@ public class ques264 {
         System.out.println("Sum of even Fibonacci numbers up to " + limit + ": " + sum);
     }
 }
+
