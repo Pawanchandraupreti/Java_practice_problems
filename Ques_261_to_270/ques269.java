@@ -22,3 +22,4 @@ public class ques269 {
         System.out.println("Number of consonants: " + consonantCount);
     }
 }
+
