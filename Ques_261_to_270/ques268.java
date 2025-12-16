@@ -15,3 +15,5 @@ public class ques268 {
         System.out.printf("Arithmetic mean: %.2f%n", mean);
     }
 }
+
+
