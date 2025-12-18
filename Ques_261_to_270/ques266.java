@@ -19,3 +19,5 @@ public class ques266 {
         System.out.println("Maximum product of two numbers: " + maxProduct);
     }
 }
+
+
