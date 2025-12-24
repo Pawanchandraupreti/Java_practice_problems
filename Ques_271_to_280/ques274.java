@@ -14,3 +14,4 @@ public class ques274 {
         System.out.println("Verified sum: " + verifySum);
     }
 }
+
