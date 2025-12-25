@@ -16,3 +16,4 @@ public class ques275 {
         System.out.println("Generated sentence: " + sentence);
     }
 }
+
