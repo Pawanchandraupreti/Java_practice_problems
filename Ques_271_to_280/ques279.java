@@ -23,3 +23,5 @@ public class ques279 {
         System.out.printf("\nAverage word length: %.2f letters%n", averageLength);
     }
 }
+
+
