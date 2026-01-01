@@ -16,4 +16,3 @@ public class ques276 {
         System.out.println("Range: " + (max - min));
     }
 }
-
