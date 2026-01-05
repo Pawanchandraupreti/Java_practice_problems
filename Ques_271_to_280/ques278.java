@@ -32,4 +32,3 @@ public class ques278 {
         System.out.printf("Median Absolute Deviation: %.2f%n", mad);
     }
 }
-
