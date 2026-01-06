@@ -23,3 +23,5 @@ public class ques280 {
         return sqrt * sqrt == n;
     }
 }
+
+
