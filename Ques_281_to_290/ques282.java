@@ -36,3 +36,4 @@ public class ques282 {
         System.out.printf("Total Interest Earned: $%.2f%n", totalInterest);
     }
 }
+
