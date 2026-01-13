@@ -28,4 +28,3 @@ public class ques285 {
         System.out.println(quotes[dailyRand.nextInt(quotes.length)]);
     }
 }
-
