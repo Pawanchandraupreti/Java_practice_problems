@@ -23,3 +23,5 @@ public class ques288 {
         System.out.printf("Standard Deviation: %.2f%n", Math.sqrt(variance));
     }
 }
+
+
