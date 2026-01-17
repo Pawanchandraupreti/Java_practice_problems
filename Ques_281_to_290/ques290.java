@@ -27,3 +27,5 @@ public class ques290 {
         return true;
     }
 }
+
+
