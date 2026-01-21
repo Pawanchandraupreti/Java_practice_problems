@@ -28,3 +28,4 @@ public class ques292 {
         }
     }
 }
+
