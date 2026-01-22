@@ -10,7 +10,6 @@ public class ques294 {
         for (int i = 5; i <= n; i *= 5) {
             count += n / i;
         }
-        
         System.out.println(n + "! has " + count + " trailing zeros");
         
         if (n <= 20) {
