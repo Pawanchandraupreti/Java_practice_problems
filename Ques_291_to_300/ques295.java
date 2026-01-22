@@ -17,7 +17,6 @@ public class ques295 {
             "The best way to predict the future is to create it.",
             "Success is not final, failure is not fatal: it is the courage to continue that counts."
         };
-        
         System.out.println("Random Advice for Today:");
         System.out.println(advices[rand.nextInt(advices.length)]);
     }
