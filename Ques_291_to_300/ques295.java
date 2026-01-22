@@ -22,4 +22,3 @@ public class ques295 {
         System.out.println(advices[rand.nextInt(advices.length)]);
     }
 }
-
