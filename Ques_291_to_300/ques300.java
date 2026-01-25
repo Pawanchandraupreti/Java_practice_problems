@@ -18,7 +18,6 @@ public class ques300 {
             }
             System.out.println();
         }
-        
         // Lower half
         for (int i = n - 1; i >= 1; i--) {
             System.out.print(" ".repeat(n - i));
