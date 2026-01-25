@@ -16,7 +16,6 @@ public class ques299 {
         for (String word : words) {
             reversed.append(new StringBuilder(word).reverse()).append(" ");
         }
-        
         System.out.println("Reversed words: " + reversed.toString().trim());
     }
 }
