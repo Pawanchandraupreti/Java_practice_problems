@@ -19,5 +19,3 @@ public class ques299 {
         System.out.println("Reversed words: " + reversed.toString().trim());
     }
 }
-
-
