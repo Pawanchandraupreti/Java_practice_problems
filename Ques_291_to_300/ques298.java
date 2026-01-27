@@ -24,3 +24,4 @@ public class ques298 {
         System.out.printf("Covariance: %.4f%n", covariance);
     }
 }
+
