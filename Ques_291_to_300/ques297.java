@@ -21,6 +21,3 @@ public class ques297 {
         }
     }
 }
-
-
-
